@@ -1,0 +1,370 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Divine observations upon the London-ministers letter against toleration: by his synodicall, priest-byter-all, nationall, provinciall, classicall, congregationall, superlative, un-erring, clericall, accademicall holynesse. reverend yongue Martin Mar-Priest, sonne, and heire to old Martin Metrapolitane. Wherin the toleration of his sacred person with the whole Independent fraternity, (by what name or title soever dignify'd or distinguished, whether Anabaptists, Brownists, or the like,) is justifyed by the reasons of the London-ministers, which they urge against toleration; and themselves, by their own reasoning, condemned. The reverend authour desires such as have received offence at the 6, 7, and 8 pages in his Ordinance for tythes dismounted, to repaire for satisfaction to the last clause hereof.</title>
+            <author>Overton, Richard, fl. 1646.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90234</idno>
+            <idno type="STC">Wing O628</idno>
+            <idno type="STC">Thomason E317_15</idno>
+            <idno type="STC">ESTC R200544</idno>
+            <idno type="EEBO-CITATION">99861261</idno>
+            <idno type="PROQUEST">99861261</idno>
+            <idno type="VID">113392</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90234)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113392)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 52:E317[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Divine observations upon the London-ministers letter against toleration: by his synodicall, priest-byter-all, nationall, provinciall, classicall, congregationall, superlative, un-erring, clericall, accademicall holynesse. reverend yongue Martin Mar-Priest, sonne, and heire to old Martin Metrapolitane. Wherin the toleration of his sacred person with the whole Independent fraternity, (by what name or title soever dignify'd or distinguished, whether Anabaptists, Brownists, or the like,) is justifyed by the reasons of the London-ministers, which they urge against toleration; and themselves, by their own reasoning, condemned. The reverend authour desires such as have received offence at the 6, 7, and 8 pages in his Ordinance for tythes dismounted, to repaire for satisfaction to the last clause hereof.</title>
+                  <author>Overton, Richard, fl. 1646.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Martin Claw-Clergy, printer to the reverend Assembly of Divines, and are to be sold by Bartholomew Bang-Priest, at his shop in Toleration-street, at the signe of the Subjects Liberty, right opposite to Persecution-Court,</publisher>
+                  <pubPlace>Europe [i.e. London?] :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Martin Mar-Priest = Richard Overton.</note>
+                  <note>The imprint is false.</note>
+                  <note>A reply to: A letter of the ministers of the city of London (Wing L1578).</note>
+                  <note>Annotation on Thomason copy: "Jan: 24th 1645"; the second 6 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Westminster Assembly (1643-1652) --  Early works to 1800.</term>
+               <term>Letter of the ministers of the city of London --  Early works to 1800.</term>
+               <term>Religious tolerance --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113392:1" rendition="simple:additions"/>
+            <p>DIVINE OBSERVATIONS Upon the <hi>London-Miniſters</hi> Letter againſt TOLERATION:</p>
+            <p>By his Synoddicall, Prieſt-byter-all, Nationall, Provinciall, Claſſicall, Congregationall, Superlative, Un-erring, Clericall, Accademicall Holyneſſe, Reverend <hi>Yongue MARTIN MAR-PRIEST,</hi> Sonne, and Heire to Old Martin the Metrapolitane.</p>
+            <p>Wherein the Toleration of His Sacred Perſon with the whole Independent Fraternity, (by what Name or Title ſoever dignify'd or diſtinguiſhed, whether <hi>Anabaptiſts, Browniſts,</hi> or the like,) is juſtifyed by the Rea<g ref="char:EOLhyphen"/>ſons of the <hi>London-Miniſters,</hi> which they urge againſt <hi>Toleration;</hi> and themſelves, by their own Reaſoning, condemned.</p>
+            <q>
+               <p>
+                  <bibl>Pſal. 7. 15.</bibl>
+               </p>
+               <p>They have made a pitt, and digged it, and are fallen into the ditch that they have made.</p>
+            </q>
+            <q>
+               <p>
+                  <bibl>1 Cor. 1. 20.</bibl>
+               </p>
+               <p>Where is the Wiſe? Where is the Scribe? Where is the Diſputer of this world? Hath not God made fooliſhneſſe the wiſedome of this world?</p>
+            </q>
+            <p>The Reverend Authour deſires ſuch as have received offence at the 6, 7, and 8. Pages in his <hi>Ordinance for TYTHES Diſmounted,</hi> to repaire for ſatisfaction to the laſt Clauſe hereof.</p>
+            <p>
+               <hi>E<g ref="char:V">Ʋ</g>ROPE,</hi> Printed by <hi>Martin Claw-Clergy,</hi> Printer to the Reverend Aſſembly of <hi>Di<g ref="char:EOLhyphen"/>vines,</hi> and are to be ſold by <hi>Bartholmew Bang-Prieſt,</hi> at his ſhop in <hi>Tole<g ref="char:EOLhyphen"/>ration-ſtreet,</hi> at the ſigne of the <hi>Subjects Liberty,</hi> right oppoſite to <hi>Perſecution-Court.</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113392:2"/>
+            <pb n="3" facs="tcp:113392:2"/>
+            <opener>
+               <salute>To Our Reverend, Learned and Religious Brethren, the Prolocutour and the reſt of the Aſſembly of Divines, now ſitting in holy Con<g ref="char:EOLhyphen"/>ſpiracy at King <hi>Hen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y</hi> the Seventh's Chappell, at <hi>Weſtminſter, Cheek by Jowl</hi> to the Two Houſes of Parliament; Theſe preſent.</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">R</seg>Everend and Beloved</hi> BRETHREN, (for ſo I have Au<g ref="char:EOLhyphen"/>thority from your own ſacred Preſident.) I cannot but take no<g ref="char:EOLhyphen"/>tice of your indefartigable vigilancy, and unc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſant endeavors after this endleſſe worke of <g ref="char:V">Ʋ</g>niformity; that rather then you will looſe the vantage of an opportunity, out of your ſuperceleſtiall Provi<g ref="char:EOLhyphen"/>dence, you can even create Opportunity it ſelf, and then like the Godly, able, Orthodox of the Land indeed, moſt Prudently, in all Presbyterian Piety, lay hold on the advantage, to conſumate your endeavoured <g ref="char:V">Ʋ</g>niformity: for af<g ref="char:EOLhyphen"/>ter your ſo many ſpirituall, myſticall Conſpiracies, the miraculous reſult of your moſt Seraphicke late Conſultations for its preſent ſettlement, hath ſtruck my Piety into an holy Admiration, that now I confeſſe your Policy high ſur<g ref="char:EOLhyphen"/>paſs'd my Sanctity; for upon the firſt of <hi>January,</hi> when the <hi>Injunctions</hi> from the Generall Aſſembly in <hi>Scotland</hi> came into your grave and Learned Aſſembly, againſt Toleration of <hi>Independency</hi> in this Kingdom, &amp; was read in your Reverend Audience, you had ſo ordered Superior Providence, that even in that very inſtant of time, (juſt is if it had been predeſtinated,) this Moſt juditious argumentative <hi>Letter</hi> of the <hi>London Miniſters,</hi> (from that <hi>Syon-Colledge-conſpiracy,</hi>) ſhould preſent it ſelf; whereat the Learned Mr. <hi>Hin<g ref="char:EOLhyphen"/>derſon,</hi> forthwith in a <hi>Scotch Rapture,</hi> cryed out of the great <hi>Providence</hi> of GOD<g ref="char:punc">▪</g> ſaying, <hi>Doubtleſſe no other but God was the Father of Two ſuch Bleſſed Twins! that at one inſtant of time, ſo many godly, Learned and Orthodox of the 2. Kingdoms, ſhould ſo happily concurre and meet with their deſires, and advice for this generall Uniformity:</hi> In<g ref="char:EOLhyphen"/>deed it was a <hi>Providence</hi> neatly and plauſibly contrived, and doubtleſſe would have done the deed, but that there is one thing that ſpoiles all, <hi>The Lord fruſtrateth the Tokens of Lyars, and maketh Diviners mad, tur<g ref="char:EOLhyphen"/>neth</hi>
+               <note place="margin">Jſai. 44. 25.</note> 
+               <hi>wiſe men backwards, and maketh their knowledge fooliſhneſſe:</hi> But here's not all: The Aſſembly's Anathama againſt <hi>Toleration,</hi> at that inſtant of time, is given into the HO<g ref="char:V">Ʋ</g>SE. O, there's a <hi>Di<g ref="char:EOLhyphen"/>vine Providence</hi> indeed: Sure, our <hi>Syon Colledge</hi> is even Presbyteria<g ref="char:EOLhyphen"/>liz'd into the <hi>p<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> Mobile,</hi> or elſe that ſuperceleſtiall Aſſembly at <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi>
+               <pb n="4" facs="tcp:113392:3"/>
+is <hi>REFORM'D</hi> into the Emperiall Heaven, that even <hi>Divine Providence</hi> it ſelf is thus in their diſpoſe; an exaltation even into the Throne of God! Where are our <hi>Presbyters</hi> now? <hi>They even are ſet as gods <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Temple of God, ſhewing themſelves that they are gods indeed, by the working of Sathan, with all power, and ſignes, and lying wonders:</hi> Providence after Providence, &amp;c. to deceive: All which I have here diſcovered, and i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all Dedicatory humility repreſent vnto your venerable peruſall thoſe my Obſervations upon this Letter; that happily you may take notice therein of a rea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Providence of God indeed, that ſuch Godly, Learned, Orthodox Di<g ref="char:EOLhyphen"/>vines, as the Miniſters of the City of <hi>London,</hi> ſhould be ſo infatuated in their wiſedome, that their reaſons againſt <hi>Toleration</hi> ſhould inevitably con<g ref="char:EOLhyphen"/>clude <hi>Toleration,</hi> condemne themſelves, and their Presbytry, which I have endeavoured to evidence to the whole world, and leave it to the publike Try<g ref="char:EOLhyphen"/>all, either to ſtand or to fall by ſuch their Reaſoning, and againſt this faire proffer, to haue our mettall tryed by their own touch-ſtone, the <hi>Presbyters</hi> themſelues cannot except: If <hi>I</hi> fayl, then let me weare your <hi>Churches Li<g ref="char:EOLhyphen"/>very,</hi> which themſelues are pleaſed to put upon it, a <hi>Coat of divers Co<g ref="char:EOLhyphen"/>lours,</hi> pag. 1. <hi>Thus then for the prizſe.</hi>
+            </p>
+            <div type="commentary">
+               <q>LONDON MINISTERS. <hi>When all things are examined by the Word, then that which is beſt may be heldfaſt.</hi>
+               </q>
+               <p>
+                  <hi>Martin.</hi> This plainly grants an equity to the holding faſt, or pra<g ref="char:EOLhyphen"/>ctiſing that with all freedome, which every man in his own underſtan<g ref="char:EOLhyphen"/>ding, by ſuch examination ſhall ſo diſcover; or otherwiſe, Wherefore ſhall any have liberty of Examination after their underſtandings, ſet<g ref="char:EOLhyphen"/>ing otherwiſe they cannot examine, if after their underſtandings, they may not practiſe, for what is written, is written for our learning, and conſequently for our Practiſe; So that your Monopolizing all Liberty and Judgement into your own hands, is condemned by the equity of your owne Argument; If you will be ſole Judges, you may be ſole Exa<g ref="char:EOLhyphen"/>miners
+<pb n="5" facs="tcp:113392:3"/>
+too, for after wee have examined, if your judgement reſtrain<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> us the practiſe, wee are never the neere, for Faith without Workes i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dead. Wee may be ſure, what ever our Examination diſcoveret<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> which entrencheth upon your Lordlineſs over your Brethren, yo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Pompe and Preheminence, your Ordinance for Tythes, your Con<g ref="char:EOLhyphen"/>gregationall, Claſſicall, Provinciall, Nationall Courts, &amp;c. to expect determination concerning the ſame, to be of like effect, with that of the Lord Biſhops, when it was put to Vote in the Lords Ho<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>, whe<g ref="char:EOLhyphen"/>ther the Biſhops had a Right by Law to Vote therein; Or like into your Anſwer given by your Committee, to Mr. <hi>Tombes</hi> 1 2. Arguments againſt Infants Baptiſme, ſpecifyed in his Examen. <hi>pag.</hi> 2. Or ra<g ref="char:EOLhyphen"/>ther more like unto the Anſwer which <hi>Ananias</hi> the High-Prieſt gave unto <hi>Paul,</hi> when he had declared, that he had lived in all good Con<g ref="char:EOLhyphen"/>ſcience unto that day: <hi>Smi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e him on the mouth, (Acts</hi> 23. 1, 2.) with the Presbyerian clutter-fiſt of iniquity.</p>
+               <q>Lond. Min. <hi>The deſires and endeavours of the Independents Toleration, at this time extreamly it unſeaſonable and præproperous<g ref="char:punc">▪</g> for, 1. The Reforma<g ref="char:EOLhyphen"/>tion of</hi> Religion <hi>is not yet perfected and ſetled among us, according to our Couenant. And why may not the</hi> Reformation <hi>be raiſed up at laſt to ſuch purity and perfection, that truly tender Conſciences may receiue abundant Satisfaction, for ought that yet appeares?</hi>
+               </q>
+               <p>
+                  <hi>Martin.</hi> But what Reformation is that, according to the <hi>Covenant,</hi> that you intend, till which our <hi>endeavours</hi> are <hi>extreamly unſeaſonable and præproperous?</hi> Sure wee muſt accept it in your owne Presbyterian ſenſe, and what that is, is evident to the whole world, by your Pollitick en<g ref="char:EOLhyphen"/>deavours, both private and publick, to be no other, but an abſolute en<g ref="char:EOLhyphen"/>ſlaving both of Parliament and People unto your Presbyterian Di<g ref="char:EOLhyphen"/>ctates, in all matters Evangelicall and Spirituall; which is no other, but the very Spirit, Marrow, root, and Quinticenſe of Popery, againſt which, that very Covenant, in its genuine intent, expreſly doth engage us and our Poſterity in the fundamentall Extirpation thereof out of the Three Kingdomes; for indeed that preheminence is no other but an abſolute Arrogation of Popiſh Supremacy, and ſpirit of Infallability, for plurallity of Perſons in that arrogation, doth not alter the nature and eſſence of the thing arrogated; it is as well Popiſh Supremacy in a Synod, Claſſis, or the like, as in one man.</p>
+               <p>So that our <hi>Couenant</hi> doth engage us in the totall Extirpation of LORD PRESBYTERS, their Claſſes, Ordinances, &amp;c.
+<pb n="6" facs="tcp:113392:4"/>
+as well as of their Grandfather the <hi>Pope,</hi> their Fathers the Lord <hi>bi<g ref="char:EOLhyphen"/>ſhops,</hi> their Courts, Cannons, &amp;c. before them: Will, but it ſeems till this Popiſh Prelaticall Prerogative (the perfection of your <hi>Reformation,</hi> after your ſenſe of the <hi>Covenant</hi>) be abſolutely <hi>Presby<g ref="char:EOLhyphen"/>terizliz'd;</hi> you judge it <hi>unſeaſonable and præproperous:</hi> Truly, (<hi>Reverend and beloved Brethren,</hi>) I ſubmit unto your judgements herein, for to nip it in the Bud, to cruſh the <hi>Cockatrice</hi> in the ſhell, to prevent this ap<g ref="char:EOLhyphen"/>proaching Papall Epiſcopall Tyranny and u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urpation of our Birth<g ref="char:EOLhyphen"/>rights by the Independents indeavours for a timely Toleration, before it be abſolutely Presbyterian, will utterly annihilate and fruſtrate your deſigne, ſo that in your ſenſe, it muſt needs be extreamly unſeaſonable indeed, when our mouthes are ſowed up, our hands tyed behind us, our feet fettered, then in your Presbyterian ſenſe, comes in <hi>Our Seaſon;</hi> for if before it be unſeaſonable and preproperous, that implyes, that then it will be ſeaſonable; when <hi>the Steed is ſtoll<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, you will give as leave to ſhut the Stable door<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>;</hi> Indeed we are obliged to your venerable <hi>Sancti<g ref="char:EOLhyphen"/>ties</hi> in the Superlative degree, that you will be but pleaſed to <hi>fl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>p u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> i'th mouth with a Fox-tayle:</hi> Before, it is too ſoon, and after, it will be too late: And thus the truly tender Conſciences may receive abundant ſa<g ref="char:EOLhyphen"/>tisfaction for ought that yet appeares, have their Perſons baniſh'd or impriſoned, their goods Plundered and confiſcate, their houſes pull'd downe, and Gibbets made of the Timber to hang their tender Con<g ref="char:EOLhyphen"/>ſciences out, to take the Presbyterian Ayre; for no better as yet appear<g ref="char:EOLhyphen"/>eth, and this is already evident both in their Writings and Sermons: (See <hi>Byſeild;</hi> Sermon before the Houſe, latter end of his Book.) And if they thus ſhew their teeth before they have full power to bite, what will they doe, when their power is <hi>abſolute;</hi> their mercies will be cru<g ref="char:EOLhyphen"/>elty, if the future may be judged by the preſent, as all the <hi>mercies of the Wicked are.</hi> Prov. 12. 10. And then wee ſhall be ſure (they having all Judgement in their hands) none ſhall be judged to be of <hi>truly under Conſciences,</hi> but ſuch as are Presbyteriall, ſuch as will be awed by their Power and Tyranny; the reſt muſt ſtand upon their Perill. Well, wee muſt ſtay till <hi>Reformation,</hi> according to the <hi>Covenant,</hi> be fully ſetled, and what your ſenſe is, is evident; but what <hi>Reformation</hi> is that the <hi>Covenant</hi> it ſelf doth intend? Is it not a Reformation (after the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>preſſe Letter of it) <hi>according to the Word of God?</hi> As for your Presby<g ref="char:EOLhyphen"/>tery, though by your ſelves, in your late Petition for it's eſtabliſhment, you urge and avow it to be the Ordinance of Jeſus Chriſt, yet in the
+<pb n="7" facs="tcp:113392:4"/>
+Judgement of the Parliament, it was Voted falſe and ſcandalous, and the higheſt title they ever voted upon it, was but <hi>jure Human<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>;</hi> there<g ref="char:EOLhyphen"/>fore, not <hi>jure Divino:</hi> and if not <hi>jure Divino,</hi> then our <hi>Covenant</hi> which doth engage u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in a <hi>Reformation, according to the Word of God,</hi> which i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuch an one, as is abſolutely <hi>jure Divino,</hi> doth not engage <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> at all unto Presbytrie, which by the Parliaments own confeſſion, is but <hi>jure Hu<g ref="char:EOLhyphen"/>mano,</hi> but rather to its ſuppreſſion; and the Parliament themſelves, if they will but practiſe according to their owne Votes, cannot engage us thereto by vertue of our Covenant, but are to Protect us and our Poſterity from it; not ſuffering Presbytery no more then Papiſtry and Prelacy, which are but <hi>jure Humano,</hi> to inſult and tyrannize over us, our Conſciences, Perſons or Eſtates; for if by our <hi>Covenant</hi> they be bound to ſafe-guard Us from the incurſions of Papiſtry and Prela<g ref="char:EOLhyphen"/>cy, (the Two firſt diviſions of the great City <hi>Babylon,</hi>) becauſe they are but <hi>jure Humano,</hi> then they are equally thereby bound to Protect us from the Tyranny and Oppreſſion of Presbyters, (the third Diviſi<g ref="char:EOLhyphen"/>on,) for themſelves ſay, it is but <hi>jure humano.</hi> And yet, forſooth, you challenge the Precedency, your turnes muſt be ſerved firſt, as though you were the <hi>Children,</hi> and the Independents the <hi>Dogges;</hi> The Inde<g ref="char:EOLhyphen"/>pendents might rather urge, that the endeavours of the Presbyters are <hi>unreaſonable and præproperous,</hi> till Independency be ſetled; for the Par<g ref="char:EOLhyphen"/>liament never yet Voted Independency to be <hi>jure Humano,</hi> neither are your ſelves able to prove it ſo to be.</p>
+               <q>Lon. Min. 2. <hi>It is not yet knowne, what the Government of the Inde<g ref="char:EOLhyphen"/>pendents is, neither would they ever vouchſafe to let the world know what they hold in that point, &amp;c.</hi>
+               </q>
+               <p>
+                  <hi>Martin.</hi> If it be unſeaſonable (according to your reaſoning,) for ſuch Independents, whoſe Government is not made known to the World; (for that is the reaſon of your Argument, for you ſtate the un<g ref="char:EOLhyphen"/>ſeaſonableneſſe in the non-knowledge, &amp;c.) then for ſuch whoſe Go<g ref="char:EOLhyphen"/>vernment is made knowne, muſt needs be ſeaſonable, after the ſame reaſoning.</p>
+               <p>But Reverend MARTIN, with his Brethren, whom you dignify and diſtinguiſh by the names of Anabaptiſts, Browniſts, &amp;c. have declared their Diſcipline to the whole World, both by their Preachings, Wri<g ref="char:EOLhyphen"/>tings, and continued practiſe, even unto this day: See the Confeſſion of the 7<g ref="char:punc">▪</g> Churches. See Mr. <hi>Turners</hi> model, intituled, <hi>An Heavenly Confe<g ref="char:EOLhyphen"/>rence for Syon<g ref="char:punc">▪</g> Saints.</hi> Therefore the endeavours of Reverend MAR<g ref="char:EOLhyphen"/>TIN,
+<pb n="8" facs="tcp:113392:5"/>
+and his Independent Brethren, muſt now be ſeaſonable, even from your own reaſoning.</p>
+               <p>But I muſt needs tell you by the way, you need not much urge the only ſeaſonablenes of yours from the <hi>knowledge</hi> thereof: I pray you, what is it? can you tell your ſelves? You tell the Independents of their <hi>reſerves,</hi> but what may they ſay of yours? for wee have yours but in part, and that neither preſented, but by Peece-meals; now a little, and then a little, and ſtill <hi>reſerves</hi> in the rear, yea innumerable ſtill, for any thing we can perceive, which are but yet hammaring out to the temper of the People; what they are, is beſt known to your ſelves: what is knowne, is not ſo beautifull, as to make all others <hi>unſeaſonable and præproperous:</hi> If drawn into a Modell, I think it will rather affright then allure; for in the Bulke, it is no other then a Bundle of <hi>Tyrannicall Ordinances,</hi> and wicked Lawes over our Conſciences, Perſons, and Eſtates, to torment us in endleſſe Suits and Appeales from Court unto Court, Congregati<g ref="char:EOLhyphen"/>onall, Claſſicall, Provinciall, Nationall, &amp;c. with mercileſſe Mulcts and Penalties upon our Perſons, as your Thundering Ordinance for the <hi>Covenant,</hi> your Plundering Ordinance for <hi>Tythes,</hi> your Monopolizing Ordinance for <hi>Preaching,</hi> your Romiſh Epiſcopall Ordinance for <hi>Or<g ref="char:EOLhyphen"/>daining of Miniſters,</hi> your devouring Ordinance for <hi>the better eſtabliſh<g ref="char:EOLhyphen"/>ment of your Directory,</hi> your High-Commiſſion, Star-chamber Ordi<g ref="char:EOLhyphen"/>nance for <hi>the Lords Supper, &amp;c.</hi> witneſſe to the whole World: and truly, whether this Presbyterian Modell of your Government be ſo honourable, to make allothers <hi>unſeaſonable,</hi> I leave to the woefull expe<g ref="char:EOLhyphen"/>rience of thoſe againſt whom this <hi>Modell of Ordinances</hi> is in force, yea, even to the whole World, to judge.</p>
+               <p>But not to detract from the integrity of thoſe Independents, you here intend; it is evident, that hitherto the Aſſembly have ſuppreſs'd the bringing in of their <hi>Modell,</hi> that they (by all their unwearied endea<g ref="char:EOLhyphen"/>vous, could never attain an equall and juſt liberty thereunto, either by diſpute or otherwiſe, as the copy of their <hi>Remonſtrance</hi> touching that buſineſſe doth declare. Now let the World judge, whether this be fair and reaſonable dealing, ſuch as becomes the Miniſters of the City of <hi>London.</hi> Firſt to ſuppreſſe the delivery, and then like Scholaſt Synodi<g ref="char:EOLhyphen"/>call Diſputants, to urge the non-delivery, as an Argument againſt their <hi>Toleration.</hi> 'Tis a ſtout Argument, if but followed; If it be in force to any, it is to the <hi>ſuppreſſors</hi> not the <hi>ſuppreſſed.</hi>
+               </p>
+               <q>Lon. Min. <hi>Secondly, their deſires and endeavours are unreaſonable, and unequall,
+<pb n="9" facs="tcp:113392:5"/>
+its divers regards. 1. Becauſe no ſuch Toleration hath been eſtabli<g ref="char:EOLhyphen"/>ſhed (ſo farre a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> we know,) in any Chriſtian ſtate, by the Civill Mageſtrate.</hi>
+               </q>
+               <p>
+                  <hi>Martin.</hi> It ſeems <hi>Holland, Poland, Tranſilvania, &amp;c.</hi> where free Tolera<g ref="char:EOLhyphen"/>tion of all ſorts of Independents is eſtabliſhed by Civill Mageſtrates, are not Chriſtian States, becauſe they are not wholly Presbyterializ'd, Tole<g ref="char:EOLhyphen"/>rating none but Presbyterian<g ref="char:punc">▪</g> So that in your ſenſe, they are no further Chriſtian then they are Presbyterian: So that if this Parliament ſhould tollerate any other but your ſelves, it ſeems you make account to Un<g ref="char:EOLhyphen"/>chriſten them all, your Bull is prepared againſt them, you have told them what they muſt expect, the cenſure of Infidells, Heathens and Hereticks, an Excommunication <hi>ipſo facto,</hi> for they muſt not be Chriſtian. But in caſe there were no ſuch Toleration in any State profeſſing Chriſtianity, yet that were no Argument againſt Toleration, for Evangelicall Precept is not derivative from Humane Preſident: The practiſe of Emperours, Kings, States or the like, is no Evangelicall Rule; for <hi>Evangelicall Right,</hi> muſt have <hi>Evangelicall Authority,</hi> which one would have thought had been known to <hi>Evangelicall Miniſters,</hi> ſuch as you ſtile your ſelves.</p>
+               <q>Lon. Min. 2. <hi>Becauſe ſome of them have ſolemnely profeſt, that they can<g ref="char:EOLhyphen"/>not ſuffer</hi> Presbytry, <hi>and anſwerable hereto is their practiſe in thoſe places where Independency prevailes; Therefore their Toleration is unreaſonable and unequall.</hi>
+               </q>
+               <p>
+                  <hi>Martin.</hi> If their Toleration be <hi>unreaſonable and unequall,</hi> becauſe ſome of them <hi>ſolemnly profeſſe,</hi> (which I ſcarſe beleeve,) <hi>that they cannot ſuffer Presbytry;</hi> then by the ſame reaſon, the Toleration of <hi>Presbytry</hi> is much more <hi>unreaſonable, and unequall,</hi> becauſe all of them doe ſolenmly pro<g ref="char:EOLhyphen"/>feſſe, that they cannot, neither will they ſuffer <hi>Independency;</hi> though In<g ref="char:EOLhyphen"/>dependents could ſuffer them, would but the Parliament, according to their own <hi>Covenant</hi> and <hi>Lawes,</hi> knock off their Horns, pluck out their Tusks, break their Jaws, pare their Nailes, that they neither Puſh, goar, cruſh, bite, ſcratch or devour any more: for if it be in force <hi>to all,</hi> for that deny all by ſome, it is much more forceable to all, where all deny: So that, if they deny all of Toleration be a ſufficient Argument, (as it ſeems according to the Reaſon of the <hi>Lon. Min.</hi>) againſt the Toleration of ſuch denyers, then what muſt become of the <hi>Presbyters? The ſame pit that they have digged for others, they muſt be content to fall into it themſelves.</hi>
+               </p>
+               <q>
+                  <p>Lon. Min. <hi>Many miſchiefes will inevitably follow upon this Toleration, and that both upon Church and Common-wealth. Firſt to the Church.</hi>
+                  </p>
+                  <p>
+                     <hi>Bitten heart-burnings among </hi>Brethren,<hi> will be fomented and perpetuated to Poſterity.</hi>
+                  </p>
+               </q>
+               <pb n="10" facs="tcp:113392:6"/>
+               <p>
+                  <hi>Mar.</hi> The reaſon of this Argument is this; That <hi>which<g ref="char:punc">▪</g> will occaſion heart-burnings, foment and perpetuate them to poſterity, is not to be tollerated in a Common-wealth.</hi> Therefore, if I prove an <hi>
+                     <g ref="char:V">Ʋ</g>niverſall Tolleration</hi> will be an occaſion of allaying of <hi>heart-burnings</hi> to <hi>poſterity,</hi> Perſecution the contrary, then by the Argument of the <hi>Lon. Min.</hi> ſuch Tolleration is lawfull, and that which they ſo ignorantly proſecute, unlawfull.</p>
+               <p>That which <hi>occaſioneth murmurings, repinings, fears, jealouſies, conſpira<g ref="char:EOLhyphen"/>cies, inſurrections, rebellions, &amp;c.</hi> begetteth <hi>heart-burnings, and p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rpetu<g ref="char:EOLhyphen"/>ates them to Poſterity;</hi> and ſo by your Argument, not to be Tollerated: And on the contrary, <hi>That which doth not beget murmurings, &amp;c. doth not beget heart-burnings, or perpetuate them to Poſterity, but tendeth to allay them, and prevent them, and ſo by your own reaſoning to be tollerated.</hi>
+               </p>
+               <p>But <hi>Perſecution,</hi> or <hi>Non-Tolleration</hi> which you plead for, occaſioneth and <hi>begetteth murmurings, repinings. &amp;c.</hi> for it enrageth the <hi>Conſcience,</hi> then which, nothing is more neere and dear unto us, <hi>and a wounded Con<g ref="char:EOLhyphen"/>ſcience,</hi> (ſaith <hi>Solomon,) who is able to bear it?</hi> Wee had rather looſe our lives then deny our Faith; and what will not men doe <hi>for their lives?</hi> this <hi>ſuggeſteth and provoketh to Conſpiracies, Jnſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rections, Rebellions, &amp;c.</hi> as <hi>Holland, France, Germany, Jreland, Scotland</hi> and <hi>England, &amp;c.</hi> have felt by woefull experience: Nothing is more deſperate and reſolute, then an <hi>enraged Conſcience,<g ref="char:punc">▪</g>
+                  </hi> it is of a Lyon-like nature in its fury, it beareth on a man, even <hi>to the ſhedding and laying down of his life; no dangers, no at<g ref="char:EOLhyphen"/>tempts, though never ſo difficult, never ſo deſperate, can beare it down; it will venture, though it periſh;</hi> and on the contrary, (to uſe mine own words in the <hi>Arraignment,</hi> pag. 12.) <hi>it is a Lambe, if appeaſed, and nothing more mild, more gentle and loving then it. Enraged, it is like the wild Bore out of the Forreſt; pleaſed, it is like the Dove frrom the Arke; no greater freind, no greater foe; Oppreſſion</hi> (ſaith the Wiſe man) <hi>will make a wiſe man mad;</hi> a very worme will turne again, if troad upon; It may beget wrath, but never can beget Love, and that which doth ſo, muſt needs beget <hi>heart<g ref="char:EOLhyphen"/>heart-burnings and perpetuate them to poſterity;</hi> Therefore by your owne grant, not to be Tollerated: <hi>Thus the Fowlers are caught in their owne ſnare.</hi>
+               </p>
+               <q>Lond. Min. <hi>The life and power of godlineſſe, will be eaten out by frivi<g ref="char:EOLhyphen"/>lous Diſputes, and vaine janglings.</hi>
+               </q>
+               <p>
+                  <hi>Mart.</hi> The Reaſon of this Argument, is this, That which <hi>eat<g ref="char:EOLhyphen"/>eth out the life and power of godlineſſe,</hi> in the judgement of the <hi>Lon. Min. is not to be tollerated.</hi> Whence I Reaſon.</p>
+               <p>
+                  <pb n="11" facs="tcp:113392:6"/>That which preventeth the breaking and ſpreading forth of <hi>Know<g ref="char:EOLhyphen"/>ledge in the Word of God, eateth up the life and power of godlineſs.</hi>
+               </p>
+               <p>But Non-tolleratition, your ſilenſing all Diſputes, tryall of Doctrines, and confining unto all your Dictates, preventeth &amp; ſuppreſſeth <hi>the break<g ref="char:EOLhyphen"/>ing forth, encreaſe and growth of knowledge;</hi> for by faire and equall Rea<g ref="char:EOLhyphen"/>ſonings, and tryall of Doctrine, <hi>light would daily break forth and en<g ref="char:EOLhyphen"/>creaſe;</hi> as common experience doth witneſſe.</p>
+               <p>How could you have been converted to Presbytry? How could the Rottenneſs of Popery, Epiſcopacy, &amp;c. have been diſcovered, and ſpread through the Kingdome, had it not been for <hi>Preachings, Writings, Diſpu<g ref="char:EOLhyphen"/>tations, tryall of Doctrine,</hi> &amp;c.</p>
+               <p>Therefore your Non-Tolleration, and ſuppreſſing of all Diſputes, &amp;c. <hi>eateth up the life and Power of Godlineſſe;</hi> and therefore not to b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tled.</p>
+               <p>Thus farre the <hi>London-Miniſters</hi> and MARTIN are agreed: Surely their Letter is a cloſe couched <hi>Presbyterian Deſigne</hi> of <hi>comming over</hi> to <hi>In<g ref="char:EOLhyphen"/>dependency;</hi> Ile promiſe you, this is a faire ſtep at the firſt, and pretty cun<g ref="char:EOLhyphen"/>ningly carried: we gratulate our ſo happy concurrence; Sirs, <hi>You are all heartily welcome to our Sanctnary in TOLERATION-STREET,</hi> and we acknowledge our ſelves deeply engaged to the <hi>London Miniſters,</hi> for their good ſervice to our cauſe: Be therefore encouraged, Reverend &amp; beloved Brethren, goe on and proſper, wee are not offended at your Policy, to Reaſon thus covertly for us; wee well know, <hi>that Rome was not built in a day.</hi>
+               </p>
+               <p>But let us proceed, and ſee what further Aſſiſtance your Reaſons affords.</p>
+               <q>Lond. Min. <hi>The whole courſe of Religion in private Families will be in<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rrupted and undermined.</hi>
+               </q>
+               <p>
+                  <label>The Reaſon of which Argument is this.</label>
+                  <hi>Martin.</hi> That which <hi>interrupteth and undermineth the courſe of</hi> Religi<g ref="char:EOLhyphen"/>on, <hi>in private Families,</hi> is not to be ſetled.</p>
+               <p>The edge of which Reaſon, I thus turne againſt you.</p>
+               <p>
+                  <hi>That which tendeth to the making of Hypocrites, Fearers, and pleaſers of men more then of God, muſt needs interrupt and undermine the purity of Religion in private Families.</hi>
+               </p>
+               <p>
+                  <pb n="12" facs="tcp:113392:7"/>But the coercive Power, which you ſo plead for, doth ſo; for it maketh multitudes, (as common experience doth too much witneſſe,) for fear of bodily puniſhment, deprivation of their goods, loſſe of their Places, Tra<g ref="char:EOLhyphen"/>ding, &amp;c. to diſſemble with their Conſciences, even practiſe contrary thereto, and temporize with the Time, which is an abſolute perverſion of the <hi>power of Godlineſs</hi> in them<g ref="char:punc">▪</g> Therefore.</p>
+               <q>Lon. Min. <hi>Reciprocall duties between Perſons of neereſt and deareſt rela<g ref="char:EOLhyphen"/>tion, will be extreamly violated.</hi>
+               </q>
+               <p>
+                  <hi>Mar.</hi> The reaſon hereof is, That which is deſtructive to reciprocall <hi>duties,</hi> is to be abominated; the which I thus retort upon your owne heads. That <hi>which ſetteth Father againſt Sonne, ſonne againſt Father, one freind againſt another, King againſt Parliament, Parliament againſt King, Kingdom againſt Kingdome, and divideth Nations and People amongſt themſelves, and enrageth them one againſt another,</hi> extreamly vio<g ref="char:EOLhyphen"/>lateth <hi>Reciprocall Duties</hi> betweene Perſons of neereſt and deareſt re<g ref="char:EOLhyphen"/>lation.</p>
+               <p>But ſo doth <hi>Perſecution;</hi> For where this principle is, <hi>of forcing the contrary-minded, will they, nill they,</hi> it engendereth and begetteth <hi>feares</hi> and <hi>jealouſies</hi> one of another; and when one knoweth the other is his mortall enemy, it maketh each other to ſtand in defyance and defence one againſt the other, even to the drawing of the ſword, eſpecially when one thinks he can conquer the other, which makes them <hi>lie in wait for blood,</hi> witneſſe our Armies of this Kingdome; and hereupon they wallow in one anothers blood: Yea, what will not the oppreſſed doe againſt the oppreſſour; Tyranny is the mother of Conſpiracies, Murmurings, Re<g ref="char:EOLhyphen"/>pinings, &amp;c, which at length break forth (after they have gotten ſtrength,) into open Rebellions, Inſurrections, &amp;c. Therfore Non-Toleration ex<g ref="char:EOLhyphen"/>treamly violateth <hi>reciprocall dueties</hi> between Perſons of neareſt and dea<g ref="char:EOLhyphen"/>reſt Relation.</p>
+               <q>Lon. Min. 9. 10. <hi>All other Sects &amp;c. (See the Letter.)</hi>
+               </q>
+               <p>
+                  <hi>Mar.</hi> The marrow of theſe two is this, <hi>That Independency i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> not to be Tolerated, becauſe other Sects and Hereſies, under that notion, will ſeek to be tollerated:</hi> But in caſe they ſhould not, then by the vertue of your Argu<g ref="char:EOLhyphen"/>ment, it ſhould be tollerated: So that, by your own grant, its Toleration is only accidentally unequall; not abſolutly in reſpect of it ſelf; but ca<g ref="char:EOLhyphen"/>ſually in reſpect of others. Therefore, why are you ſo hott againſt the equity of it<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Toleration, ſeeing from your own Argument, it is equall. If it be good to tolerate that, and evill to tolerate Hereſies, &amp;c. you muſt
+<pb n="13" facs="tcp:113392:7"/>
+not forbeare the good, to avoid the evill, <hi>doe evill, that good may come of it,</hi> but muſt doe the thing that is juſt and equall in it ſelf; that is, tolerate the Independents, whom you title <hi>Brethren,</hi> godly and learned, and doe to them, as you ſay of them, what ever becomes of us; wee neither expect nor crave your mercy: If we cannot have Juſtice on earth, wee appeal unto the God of heaven, and meekly and freely ſubmit, to ſuffer for his Name, with our hearts rejoycing, that wee can be counted worthy ſo to doe.</p>
+               <q>L. Min. <hi>Secondly, (miſchiefs) to the Common-wealth; for thereby the King<g ref="char:EOLhyphen"/>dome will be weakned by Scand<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lls and Diviſions, &amp;c.</hi>
+               </q>
+               <p>
+                  <hi>Mart.</hi> The reaſon of this Argument is, That which tendeth not to keep all in Peace and Civill Society, but reduceth them to Diviſions and ſcandals, that is not to be eſtabliſhed by your thus reaſoning: But Non<g ref="char:EOLhyphen"/>toleration keepeth not all, but one predominant Sect in Unity, dividing all others from it; perſecuting, reviling, upbraiding, and reproaching them, though never ſo honeſt, godly, conſcienſcious, ſober, meek, and neighbourly, with lyes, ſcandalls, nick-names, as <hi>Anabaptiſts, Browniſts, Schiſmaticks, Hereticks, prodi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ious new wandering Blazing-Starres &amp; Fire<g ref="char:EOLhyphen"/>brands, pernitious mutiners, waſpiſh Generation, ſchiſmaticall, Anti-Parlia<g ref="char:EOLhyphen"/>mentary, inf<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mous, mutinous, daring, preſumptuous, ſcurr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lous<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, libellous, ſcandalous, ſeditious, inſolent, blaſphemous, ſeditious Trumpetters, revilers of God, deſpiſers of Government, reſiſters of Higher power, ſtirrers up of Sediti<g ref="char:EOLhyphen"/>on and inſurrection, Anabaptiſticall Sectaries, New furious Sectaries, a<g ref="char:EOLhyphen"/>vowed conſpiratours, contemners of Parl. Anti-covenanters, audatious, con<g ref="char:EOLhyphen"/>temptuous Libellers, New furious Ringleaders of Sedition, Houſe-creepers, Incendiaries, Rayling</hi> Rabſhakeh's, <hi>publick contemners, Affronters of Parl. *blaſphemers againſt the Aſſembly of Divines,</hi> &amp;. (*<hi>See</hi> Pryns <hi>Freſh Diſcove<g ref="char:EOLhyphen"/>ry.</hi> pag. 17. <hi>Contents of the</hi> 4. Sect.) which are no other then termes of provocation and wrath, of vengeance and ignomy, tending to the breach of the generall <hi>Bond of <g ref="char:V">Ʋ</g>nity, Peace, and Civill Society,</hi> which muſt needs extreamly weaken the Kingdom, for the Kingdome lies in he Uni<g ref="char:EOLhyphen"/>ty of the People. Therefore your <hi>Non-Toleration</hi> ought in no wiſe to be eſtabliſhed.</p>
+               <q>L. Min. <hi>It is much to be d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ubted, leaſt the power of the Mageſtrate, &amp;c. See Letter.</hi>
+               </q>
+               <p>
+                  <hi>Martin.</hi> The reaſon hereof is, Thoſe that are Anti-Mageſteriall, or weaken the Mageſteriall Power, are not to be tollerated: But your in<g ref="char:EOLhyphen"/>tended Prelaticall Presbytry is Anti Magiſteriall: <hi>Ergo,</hi> you have brought
+<pb n="14" facs="tcp:113392:8"/>
+                  <hi>your Hogges to a faire market,</hi> held in <hi>Toleration-ſtreet,</hi> at the ſigne of the <hi>Subjects Liberty,</hi> &amp;c.</p>
+            </div>
+            <div type="conclusion">
+               <head>Minor proved</head>
+               <p>Thoſe that would not have all coercive Power in the Mageſtrates hands, are Anti-Mageſteriall, and weakners of the Mageſtrates Power.</p>
+               <p>But Presbytry would not have all coercive Power onely in the hands of the Mageſtracy, but laboureth to encroach, as much as poſſibly it can into its own hands, as continued practiſe doth evidence. Therefore, by the <hi>London Miniſters</hi> own reaſoning, Presbytry is Anti-Mageſteriall, and not to be ſetled.</p>
+               <p>On the contrary. Thoſe that would have all <hi>Civill Power,</hi> preſerved intire in its own proper Mageſteriall compaſſe, are not in the leaſt Anti-Magiſteriall.</p>
+               <p>But Reverend MARTIN, with his Independent Brethren, would have it intirely preſerved in its own Mageſteriall compaſſe; they would not have it wreſted or perverted to this or that Sect, to this or that Re<g ref="char:EOLhyphen"/>ligion, but would have it, yea, expoſe their lives to have it preſerved pre<g ref="char:EOLhyphen"/>ciſely in its own property.</p>
+               <p>Therefore, Reverend MARTIN, and his Brethren are not Anti-Ma<g ref="char:EOLhyphen"/>geſteriall: But in all faithfulneſſe, acknowledge themſelves not onely ly bound to pray for all in lawfull Authority, but even to ſpend their Lives and Eſtates in their Juſt Defence, againſt all oppoſition, encroach<g ref="char:EOLhyphen"/>ment and uſurpation thereof, whatſoever: And to this our practiſe, hath given Witneſſe, even when Mageſtracy was in greateſt danger of ſubver<g ref="char:EOLhyphen"/>tion; for when the Parliament had no other helpe under God, then we ſtuck cloſeſt to them; even, when the King came in a Hoſtile man<g ref="char:EOLhyphen"/>ner for the 6. MEMBERS in the Houſe; while the degenerate <hi>Temporizing Presbyters,</hi> ſtood as farre off, as from <hi>Scotland</hi> to <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter;</hi> and have continued unſpotted in our Fidelity to them, even unto this very day.</p>
+               <p>And this I dare be bold to affirme, That if the King ſhould conquer and confound the Parliament, the now Parliamentized-Presbyters, even the Clergy in generall, would therewith be Royalized, rather then looſe their ſeverall Parſonages; and that which is now Antichriſtian, Epiſco<g ref="char:EOLhyphen"/>pacy, would then be as Chriſtian as ever it was in their eſteemes; for they'l tell you<g ref="char:punc">▪</g> 
+                  <hi>That they muſt ſubmit unto the Higher Powers, and the Powers that are, are of God;</hi> and that cures all.</p>
+               <p>If you doe but conſider, they have even reſerv'd <hi>an help at a dead lift,</hi>
+                  <pb n="15" facs="tcp:113392:8"/>
+they tell us now, <hi>That a Biſhop and a Presbyter is all one,</hi> and thereupon retaine their old <hi>Ordination,</hi> derived from a forraign Power, and ſo goe forth, and ordaine other <hi>young Biſhops;</hi> So that if the King ſhould ſub<g ref="char:EOLhyphen"/>due us, they are ſtill in their Epiſcopall Miniſtry, and a little <hi>Royall Re<g ref="char:EOLhyphen"/>formation</hi> would continue their places. Then they would <hi>take Covenants, Preach and pray ag<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>inſt the Parliament, as much as ever they did againſt the King:</hi> Thus, rather then they would be confounded themſelves, they would let true <hi>Mageſteriall Parliamentary Government</hi> goe to confuſion; and in that <hi>Day of Tryall,</hi> ſcarce any would be found to witneſſe againſt Him, except the now deſpiſed handfull of Separates.</p>
+               <p>And yet wee muſt be caſt out of the Parliaments Protection, by this <hi>Temporizing Faction of</hi> Presbyters: Ingratefull inhumanity! <hi>Heare O Heavens! and judge O Earth!</hi>
+               </p>
+               <p>BUt whereas his Holineſs, out of a late ſpirituall Rapture, at that <hi>In<g ref="char:EOLhyphen"/>quiſition Ordinance of the Supper,</hi> hath in the 6, 7. and 8. pages of the <hi>Ord. for Tythes Diſmounted,</hi> even ſpurn'd at Synodean prodigy in the High<g ref="char:EOLhyphen"/>eſt O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>be; whereupon, through the weakneſſe of ſome, and malice of others, I am miſconſtructed to be <hi>Anti-Parliamentory:</hi> I would have ſuch, the Two Honourable Houſes of Parliament, and the whole World know, That there was not, nor is to this day, the leaſt thought, or in<g ref="char:EOLhyphen"/>tent in my heart againſt <hi>Mageſteriall Government,</hi> either therein, or in any thing elſe that I have written; And of this I take God to Record, as I ſhall anſwer it at the great <hi>and Dreadfull Day of Judgement, when the ſecrets of all hearts ſhall be diſcloſed;</hi> Onely reſpecting Presbyterian de<g ref="char:EOLhyphen"/>privation, or corruption too much diffuſed (to my hearts grief) into the Two Houſes, by the bewitching ſubtilty, and over-powering Policy of that prevalent, deceitfull, Synodean Faction; and ſo my writing there, is not againſt that High and Honourable Gou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, or any thing in their Mageſteriall capacity, but ſimply againſt the <hi>Presbyterian Exorbitancy,</hi> in the Names of the LORDS and COMMONS ſtretched beyond the limits and Precincts of their <hi>Mageſteriall Function.</hi> As for the Congregational, Claſſicall, Provinciall, Nationall Courts and grievances, there mentioned, I was forced, in Equity and Juſtice, to uſe them in their Names, in whoſe they were owned and publiſhed, elſe how could I have diſcharged my Duty in the reproofe of the one, or diſcovery of the other; ſo that my virulency and bitterings there, is onely againſt<g ref="char:punc">▪</g> 
+                  <hi>Presbyterian Competitors,</hi> and <hi>Intruders</hi> into the Office and Royalty of my moſt Soveraigne Lord, <hi>the King of Kings,</hi> CHRIST JESUS; againſt all
+<pb n="16" facs="tcp:113392:9"/>
+tyrannicall encroachers, and uſurpers of our Birth-rights, Liberties, and freedoms in Perſons and Eſtates, under what pretence, notion or Title ſoever.</p>
+               <p>So that in plain Engliſh, the proper morrall and genuine intent of thoſe 3. pages, is a meer conteſtation and defyance of your Presbyterian Tyranny, whether in the name of the <hi>two Houſes,</hi> or otherwiſe gloſs'd or preſented; labouring thereby only to bruſh off the ſuperiour Title of the Two Houſes from it, that it might be cleerly diſcovered in its proper ugly Presbyterian ſhape, unto the Kingdome; only to pluck off its Par<g ref="char:EOLhyphen"/>liamentary cloak, that we might the better diſcerne that Synodean, Pres<g ref="char:EOLhyphen"/>byteran Monſter. That the People, under that ſpecious Magiſteriall vi<g ref="char:EOLhyphen"/>zor, may not entertaine that deadly venomous <hi>Presbyterian Serpent</hi> into their boſomes, and be deſtroyed unawares.</p>
+               <p>Thus I am reſolved to oppoſe <hi>Tyranny</hi> it ſelfe, where ever I find it, maugre the malice of Devills, <hi>and terrour of the mighty Rulers of this Earth,</hi> yea, even of the ſturdy <hi>Presbyters</hi> themſelves; though I, and all that's mine periſh, Ile doe it: were there a Parliament of no leſſe then Emperours, Kings and Princes competitours with it, I would ſpare them in my juſt teſtimony againſt it, no more then I would ſo many beg<g ref="char:EOLhyphen"/>gers upon a dunghill; for I have not the truth of my <hi>GOD,</hi> nor the love of my <hi>Country</hi> in reſpect of Perſons.</p>
+               <p>And this my conteſtation and defyance of Presbytry, is no other<g ref="char:EOLhyphen"/>wiſe againſt it, but onely as it is Exorbitant, Tyrannicall, Prelatticall, Cruell and Ambitious; as for honeſt, meek, <hi>Evangelicall Presbytry,</hi> I am ready, through the Power of my God, to ſeal it with my blood, even ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of an unfained love thereunto. So that in brief, my emnity is onely a<g ref="char:EOLhyphen"/>gainſt <hi>Tyranny,</hi> where ever I find it, whether in Emperour, King, Prince, Parliament, Presbyters, or People.</p>
+               <p>Thus Reader, thou haſt my own proper ſenſe, as being beſt expounder of my own words, <hi>for no man knoweth the heart of man, but himſelf:</hi> All other I utterly diſclaime, and onely own that fore-mentioned Senſe, and thereto ſubſcribe.</p>
+            </div>
+            <closer>
+               <signed>MARTIN MAR-PRIEST.</signed>
+            </closer>
+            <postscript>
+               <head>DOUBT.</head>
+               <p>Who hath wonne the Coat of Divers Colours, MARTIN, or the <hi>London-Miniſters?</hi>
+               </p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
